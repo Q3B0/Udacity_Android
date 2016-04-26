@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#f08c35">
+
+    <Button
+        android:id="@+id/btnApp1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Spotify Streamer"/>
+    <Button
+        android:id="@+id/btnApp2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Super Duo"/>
+    <Button
+        android:id="@+id/btnApp3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="工程大突破"/>
+    <Button
+        android:id="@+id/btnApp4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="XYZ阅读器"/>
+    <Button
+        android:id="@+id/btnApp5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Capstone"/>
+</LinearLayout>
